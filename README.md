@@ -68,7 +68,7 @@ Cual pepe omee seg is designed to run in a containerized environment. Running yo
 
 The easiest way to start running your Appwrite server is by running our docker-compose file. Before running the installation command, make sure you have [Docker](https://www.docker.com/products/docker-desktop) installed on your machine:
 
-### Pri Pra
+### Ocoro
 
 ```bash
 docker run -it --rm \
